@@ -1,0 +1,15 @@
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\dream\AAbackend diploma\MyDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb

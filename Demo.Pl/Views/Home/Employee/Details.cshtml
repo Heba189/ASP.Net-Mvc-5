@@ -1,0 +1,44 @@
+﻿@*@model Employee*@
+@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Employee Details</h1>
+
+<div>
+   @* 
+    <div class="form-group">
+       <label asp-for="Name" class="col-form-label"></label>
+       <input class="form-control" asp-for="Name" readonly />
+    </div>  
+    <div class="form-group">
+       <label asp-for="Address" class="col-form-label"></label>
+       <input class="form-control" asp-for="Address" readonly />
+    </div>  
+    <div class="form-group">
+       <label asp-for="Age" class="col-form-label"></label>
+       <input class="form-control" asp-for="Age" readonly />
+    </div> 
+    <div class="form-group">
+       <label asp-for="Email" class="col-form-label"></label>
+       <input class="form-control" asp-for="Email" readonly />
+    </div> 
+    <div class="form-group">
+       <label asp-for="PhoneNumber" class="col-form-label"></label>
+       <input class="form-control" asp-for="PhoneNumber" readonly />
+    </div>  
+    <div class="form-group">
+       <label asp-for="Salary" class="col-form-label"></label>
+       <input class="form-control" asp-for="Salary" readonly />
+    </div> 
+    <div class="form-group">
+       <label asp-for="IsActive" class="col-form-label"></label>
+       <input class="form-control" disabled asp-for="IsActive"  />
+    </div>*@
+      <partial name="DeleteDetailsEmployee"></partial>
+    <div>
+        <a asp-action="Edit" asp-route-id="Id" class="btn btn-primary">Edit</a> |
+        <a asp-action="Index" class="btn btn-secondary">Back To List</a>
+    </div>
+</div>

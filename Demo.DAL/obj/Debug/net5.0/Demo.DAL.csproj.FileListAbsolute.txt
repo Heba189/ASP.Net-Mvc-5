@@ -1,0 +1,15 @@
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\dream\AAbackend diploma\MyDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
